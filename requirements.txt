@@ -1,0 +1,5 @@
+redis
+pytest
+pytest-asyncio
+PyYaml
+ujson
